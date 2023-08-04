@@ -1,0 +1,50 @@
+[
+    {
+        "images": "img/desarrolloWeb_01.png",
+        "code": "00666",
+        "name": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+        "price": 1200
+    },
+    {
+        "images": "img/python_02.jpg",
+        "code": "00211",
+        "name": "Python TOTAL - Programador Avanzado en 16 días",
+        "price": 1500
+    },
+    {
+        "images": "img/scrum_03.jpg",
+        "code": "00431",
+        "name": "Scrum: un marco para el desarrollo ágil de proyectos",
+        "price": 1570
+    },
+    {
+        "images": "img/agile_04.jpg",
+        "code": "00422",
+        "name": "Principios para entender y aplicar Agile, Scrum, Kanban y XP",
+        "price": 1000
+    },
+    {
+        "images": "img/tienda_05.jpg",
+        "code": "00423",
+        "name": "Crear un ecommerce FULLSTACK con PHP Y MYSQL",
+        "price": 1200
+    },
+    {
+        "images": "img/tomcat_06.jpg",
+        "code": "00424",
+        "name": "Aprende a usar el servidor de aplicaciones Java más utilizada por las empresas.Basado en la versión Tomcat 9",
+        "price": 100
+    },
+    {
+        "images": "img/javaScript_07.jpg",
+        "code": "00425",
+        "name": "JavaScript Moderno Guía Definitiva Construye +20 Proyectos",
+        "price": 1700
+    },
+    {
+        "images": "img/react_08.jpg",
+        "code": "00426",
+        "name": "React Desde Cero",
+        "price": 2200
+    }
+]
